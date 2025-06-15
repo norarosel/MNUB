@@ -1,4 +1,4 @@
-%Ana Barato Abad
+
 
 %PARTE 1
 load DatosEntrada.txt
